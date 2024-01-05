@@ -3,6 +3,6 @@
   <component name="NewModuleRootManager">
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="SQL" />
+    <orderEntry type="module" module-name="Capstone-II---Loan-Default-Prediction" />
   </component>
 </module>
