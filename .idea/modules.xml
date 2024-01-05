@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../Capstone_II_Loan_Default_Prediction/.idea/Capstone_II_Loan_Default_Prediction.iml" filepath="$PROJECT_DIR$/../../Capstone_II_Loan_Default_Prediction/.idea/Capstone_II_Loan_Default_Prediction.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SB-DSC.iml" filepath="$PROJECT_DIR$/.idea/SB-DSC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../SQL/.idea/SQL.iml" filepath="$PROJECT_DIR$/../../SQL/.idea/SQL.iml" />
     </modules>
   </component>
 </project>
