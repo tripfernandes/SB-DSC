@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../Capstone_II_Loan_Default_Prediction/Capstone-II---Loan-Default-Prediction" vcs="Git" />
   </component>
 </project>
